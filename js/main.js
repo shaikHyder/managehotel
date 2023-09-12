@@ -1,15 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
 (function($) {
 
 	'use strict';
